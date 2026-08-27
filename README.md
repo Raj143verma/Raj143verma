@@ -78,8 +78,8 @@
 
 <table align="center">
   <tr>
-    <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=raj143verma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="raj143verma stats"/></td>
-    <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj143verma&layout=compact&theme=tokyonight&hide_border=true" alt="raj143verma top langs"/></td>
+    <td><img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=raj143verma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="raj143verma stats"/></td>
+    <td><img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raj143verma&layout=compact&theme=tokyonight&hide_border=true" alt="raj143verma top langs"/></td>
   </tr>
 </table>
 
@@ -100,4 +100,3 @@
 ---
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! </i></p>
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
