@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajkumar Verma</h1>
+<h1 align="center">Hi, I'm Rajkumar Verma</h1>
 <h3 align="center">B.E. CSE Student | MERN Stack Developer | AI & Backend Enthusiast</h3>
 
 <p align="center">
@@ -61,16 +61,46 @@
 
 ### 🛠️ Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏛️ **[PanchayatHub](https://github.com/Raj143verma)** | Rural governance platform with grievance redressal and AI-powered scheme recommendations | MERN, AI |
-| 🛍️ **[HandcraftHub](https://github.com/Raj143verma)** | Handcraft e-commerce marketplace with seller brand pages | MERN, Razorpay |
-| ✅ **[TaskFlow](https://github.com/Raj143verma)** | Todo SaaS with JWT auth and email notifications | React, Node, MongoDB, JWT |
-| 🏦 **[BankCore API](https://github.com/Raj143verma/BankingTransaction)** | Banking transaction backend API | Node.js, Express, MongoDB |
-| 🏡 **[StayGenie](https://github.com/Raj143verma)** | Airbnb-style clone with MVC architecture | Node, Express, EJS, MongoDB, JWT |
-| 🤖 **[AI Resume Analyzer](https://github.com/Raj143verma/Gen-ai)** | Resume & job-fit analyzer powered by Groq API | Python, Groq API |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/Raj143verma">PanchayatHub</a></h3>
+      <p>Rural governance platform with grievance redressal and AI-powered scheme recommendations.</p>
+      <img src="https://img.shields.io/badge/-MERN-black?style=flat-square" alt="MERN"/> <img src="https://img.shields.io/badge/-AI-black?style=flat-square" alt="AI"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/Raj143verma">HandcraftHub</a></h3>
+      <p>Handcraft e-commerce marketplace with seller brand pages.</p>
+      <img src="https://img.shields.io/badge/-MERN-black?style=flat-square" alt="MERN"/> <img src="https://img.shields.io/badge/-Razorpay-black?style=flat-square" alt="Razorpay"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/Raj143verma">TaskFlow</a></h3>
+      <p>Todo SaaS with JWT auth and email notifications.</p>
+      <img src="https://img.shields.io/badge/-React-black?style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/-Node-black?style=flat-square" alt="Node"/> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square" alt="MongoDB"/> <img src="https://img.shields.io/badge/-JWT-black?style=flat-square" alt="JWT"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/Raj143verma/BankingTransaction">BankCore API</a></h3>
+      <p>Banking transaction backend API.</p>
+      <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express-black?style=flat-square" alt="Express"/> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square" alt="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 <a href="https://github.com/Raj143verma">StayGenie</a></h3>
+      <p>Airbnb-style clone built with an MVC architecture.</p>
+      <img src="https://img.shields.io/badge/-Node-black?style=flat-square" alt="Node"/> <img src="https://img.shields.io/badge/-Express-black?style=flat-square" alt="Express"/> <img src="https://img.shields.io/badge/-EJS-black?style=flat-square" alt="EJS"/> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square" alt="MongoDB"/> <img src="https://img.shields.io/badge/-JWT-black?style=flat-square" alt="JWT"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Raj143verma/Gen-ai">AI Resume Analyzer</a></h3>
+      <p>Resume & job-fit analyzer powered by the Groq API.</p>
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square" alt="Python"/> <img src="https://img.shields.io/badge/-Groq_API-black?style=flat-square" alt="Groq API"/>
+    </td>
+  </tr>
+</table>
 
-> More projects on **[my GitHub](https://github.com/Raj143verma?tab=repositories)**
+<p align="center">More projects on <a href="https://github.com/Raj143verma?tab=repositories"><b>my GitHub</b></a></p>
 
 ---
 
