@@ -65,11 +65,37 @@
 
 ### 🧰 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,docker,express,git,html,java,js,mongodb,mysql,nestjs,nextjs,nodejs,opencv,postgresql,postman,python,pytorch,react,redux,sass,spring,tailwind,ts&theme=dark" alt="tech stack icons"/>
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&theme=dark" alt="languages"/>
 </p>
 
-> Switched to [skillicons.dev](https://skillicons.dev) here — one lightweight request instead of 27 separate image links, so it loads faster and never shows broken icons.
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,sass,tailwind,bootstrap&theme=dark" alt="frontend"/>
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" alt="backend"/>
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="databases"/>
+</p>
+
+**AI / ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="ai-ml"/>
+</p>
+
+**Tools & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,postman&theme=dark" alt="tools"/>
+</p>
+
+> Grouped with [skillicons.dev](https://skillicons.dev) — one request per category, so it stays fast to load and easy to scan.
 
 ---
 
