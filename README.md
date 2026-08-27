@@ -87,13 +87,9 @@
   <img src="https://streak-stats.demolab.com/?user=raj143verma&theme=tokyonight&hide_border=true" alt="raj143verma streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=raj143verma&theme=tokyonight&no-frame=true&row=1&column=7" alt="raj143verma trophies" />
-</p>
-
 > Your contribution calendar (the green squares) already appears automatically on your GitHub profile page below this README — no widget needed for that.
 
-> **Note:** these are live widgets — GitHub fetches them fresh each time your profile page loads. They render as broken images in local previews or other markdown viewers that can't reach these services; open the actual `github.com/Raj143verma` page to see them working. The trophy card uses a community-hosted mirror since the official `github-profile-trophy.vercel.app` endpoint has been unreliable — if it ever breaks, more volunteer mirrors are listed at [github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
+> **Note:** these are live widgets — GitHub fetches them fresh each time your profile page loads. They render as broken images in local previews or other markdown viewers that can't reach these services; open the actual `github.com/Raj143verma` page to see them working.
 
 ---
 
