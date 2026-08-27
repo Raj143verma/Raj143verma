@@ -23,6 +23,42 @@
 
 ---
 
+### 🧰 Languages & Tools
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&theme=dark" alt="languages"/>
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,sass,tailwind,bootstrap&theme=dark" alt="frontend"/>
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" alt="backend"/>
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="databases"/>
+</p>
+
+**AI / ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="ai-ml"/>
+</p>
+
+**Tools & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,postman&theme=dark" alt="tools"/>
+</p>
+
+> Grouped with [skillicons.dev](https://skillicons.dev) — one request per category, so it stays fast to load and easy to scan.
+
+---
+
 ### 🛠️ Featured Projects
 
 | Project | Description | Tech Stack |
@@ -63,40 +99,6 @@
 
 ---
 
-### 🧰 Languages & Tools
-
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&theme=dark" alt="languages"/>
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,sass,tailwind,bootstrap&theme=dark" alt="frontend"/>
-</p>
-
-**Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" alt="backend"/>
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="databases"/>
-</p>
-
-**AI / ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="ai-ml"/>
-</p>
-
-**Tools & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,postman&theme=dark" alt="tools"/>
-</p>
-
-> Grouped with [skillicons.dev](https://skillicons.dev) — one request per category, so it stays fast to load and easy to scan.
-
----
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
