@@ -84,7 +84,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj143verma&theme=tokyonight&hide_border=true" alt="raj143verma streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=raj143verma&theme=tokyonight&hide_border=true" alt="raj143verma streak stats" />
 </p>
 
 <p align="center">
@@ -95,10 +95,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raj143verma&theme=tokyonight&no-frame=true&row=1&column=7" alt="raj143verma trophies" />
 </p>
 
-> **Note:** these are live widgets — GitHub fetches them fresh each time your profile page loads. They render as broken images in local previews, other markdown viewers, or if the widget service is briefly down; open the actual `github.com/Raj143verma` page to see them working. If a widget ever shows broken *on GitHub itself*, swap `theme=tokyonight` for `theme=dark` — it means that theme name changed on the service's end.
+> **Note:** these are live widgets — GitHub fetches them fresh each time your profile page loads. They render as broken images in local previews or other markdown viewers that can't reach these services; open the actual `github.com/Raj143verma` page to see them working.
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
-
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! </i></p>
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect! 🚀</i></p>
